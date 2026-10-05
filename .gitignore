@@ -3,5 +3,7 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
-.idea/
+.idea
 .DS_Store
+.vscode
+.idea/
